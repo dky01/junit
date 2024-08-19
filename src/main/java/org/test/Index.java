@@ -8,14 +8,13 @@ public class Index {
      * 1. Architecture
      * 2. Libraries -> <org.junit.jupiter> [junit.jupiter.api] [junit.jupiter.engine] surefire plugin needed for binding with maven lifecycle
      * 3. Assertions
-     * 4. Assumptions
-     * 5. Lifecycle callbacks
-     * 6. DisplayNAmes
+     * 4. Assumptions ; Assumptions.assumeTrue, Assumptions.assumeFalse, Assumptions.assumeThat
+     * 5. Lifecycle callbacks - BeforeEach, AfterEach, BeforeAll, AfterAll
+     * 6. DisplayNames
      * 7. Dependency injection
      * 8. Enable / Disable
      * 9. Parameterized - dep ; junit-jupiter-params
      * 10. Repeated Tests
-     *
      *
      */
 
